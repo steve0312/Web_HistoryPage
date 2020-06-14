@@ -1,0 +1,17 @@
+        body {
+            margin: 0;
+            font-family: 'Song Myung', serif;
+            font-size: 1.2em;
+        }
+        .steal-asset, .getback-asset {
+            margin : 100px 100px 100px 100px;
+            text-align: justify;
+        }
+        form {
+            margin-bottom: 50px;
+            margin-left: 30px;
+            margin-right: 30px;
+        }
+        legend {
+            text-align: center;
+        }
